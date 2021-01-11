@@ -1,22 +1,16 @@
-# operand-frontend
+# Operand - Teste Frontend | CRUD
 
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+## 📋 Instruções
 ```
+# instalar as dependências
+yarn
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# operand-frontend
+# iniciar o projeto
+yarn dev
+```
+Se tudo correu certo a aplicação já irar abrir no neu navegador padrão.
+
+## :cherries: Informações
+Utilizei a ferramenta https://www.json-generator.com para poder ter dados iniciais a trabalhar em cima deles.
+
+![image info](screenshot.png)
